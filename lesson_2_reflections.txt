@@ -16,11 +16,14 @@ by adding one file that cotains the logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+it does not affect the origial and important codes 
 
 How do the diagrams help you visualize the branch structure?
+It shows the tree-like strucutre with pointers and such 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+to merge we need master branch, new branch and original commit
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
