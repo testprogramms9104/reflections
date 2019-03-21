@@ -27,3 +27,5 @@ to merge we need master branch, new branch and original commit
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+automatic mergins is easy
+manuall resolves conflicts
